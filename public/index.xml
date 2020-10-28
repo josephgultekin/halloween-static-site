@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Scary Halloween Site</title>
+    <link>/</link>
+    <description>Recent content on Scary Halloween Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Oct 2020 10:56:16 +1100</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Scary Halloween Post</title>
+      <link>/posts/scary-halloween-post/</link>
+      <pubDate>Wed, 28 Oct 2020 10:56:16 +1100</pubDate>
+      
+      <guid>/posts/scary-halloween-post/</guid>
+      <description>Once upon a midnight dreary, while I pondered, weak and weary, Over many a quaint and curious volume of forgotten lore— While I nodded, nearly napping, suddenly there came a tapping, As of some one gently rapping, rapping at my chamber door. “’Tis some visitor,” I muttered, “tapping at my chamber door— Only this and nothing more.”
+Ah, distinctly I remember it was in the bleak December; And each separate dying ember wrought its ghost upon the floor.</description>
+    </item>
+    
+  </channel>
+</rss>

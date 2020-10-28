@@ -1,0 +1,6 @@
+languageCode = "en-us"
+title = "Scary Halloween Site"
+theme = "ananke"
+
+[params]
+  featured_image = "/halloween-background-1.jpg"
